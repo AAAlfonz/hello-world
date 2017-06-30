@@ -1,2 +1,2 @@
 # hello-world
-an attempt to understan github
+an attempt to understand github
